@@ -1,0 +1,15 @@
+	../src/StackPackEngine.h \
+	../src/StackPackEngine.c \
+	../src/view.c \
+	../src/view.h \
+	../src/userData.h \
+	../src/gameData.h \
+	../src/userData.c \
+	../src/gameData.c \
+	../src/scoresDlg.c \
+	../src/scoresDlg.h \
+	../src/main.c \
+	../src/EnterNameDlg.c \
+	../src/EnterNameDlg.h \
+	../src/preferences.c \
+	../src/preferences.h \

@@ -1,0 +1,11 @@
+
+[Anjuta]
+Maximized=1
+Geometry=1280x949+0+25
+
+[File Loader]
+Files=file:///home/wil/dev/StackPack/src/preferences.c#134%%%file:///home/wil/dev/StackPack/src/userData.c#88%%%file:///home/wil/dev/StackPack/src/view.c#185%%%file:///home/wil/dev/StackPack/src/main.c#49%%%file:///home/wil/dev/StackPack/src/view.h#23%%%file:///home/wil/dev/StackPack/src/gameData.h#46%%%file:///home/wil/dev/StackPack/src/gameData.c#182%%%file:///home/wil/dev/StackPack/src/userData.h#1%%%file:///home/wil/dev/StackPack/src/StackPackEngine.h#73%%%file:///home/wil/dev/StackPack/src/StackPackEngine.c#69
+
+[Execution]
+Program arguments=
+Run in terminal=2

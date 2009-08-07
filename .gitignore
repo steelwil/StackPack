@@ -4,6 +4,7 @@
 *.suo
 *.user
 *.*~
+*.[Bb]ak
  
 # ReSharper is a .NET coding add-in, but likes to
 # drop files in C++ projects too

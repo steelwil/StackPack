@@ -1,0 +1,69 @@
+
+[filenumbers]
+0=82
+1=13
+2=71
+3=210
+4=22
+5=220
+6=12
+7=474
+8=1
+9=35
+10=48
+11=87
+12=67
+13=39
+14=615
+
+[filemarkers]
+0=
+1=
+2=
+3=52,67,89,
+4=
+5=64,69,78,89,102,109,126,142,
+6=
+7=
+8=
+9=
+10=
+11=
+12=35,91,124,
+13=
+14=
+
+[File View]
+filter.file.unmatch=*.so *.o *.a *.la
+filter.file.ignore.hidden=0
+filter.dir.ignore.hidden=0
+
+[executer]
+RunInTerminal=true
+
+[Project State]
+clean before build=false
+
+[filelist]
+0=/home/wil/dev/StackPack/src/preferences.c
+1=/home/wil/dev/StackPack/src/preferences.h
+2=/home/wil/dev/gtk/notebook.c
+3=/home/wil/dev/StackPack/src/scoresDlg.c
+4=/home/wil/dev/StackPack/src/scoresDlg.h
+5=/home/wil/dev/StackPack/src/gameData.c
+6=/home/wil/dev/StackPack/src/gameData.h
+7=/home/wil/dev/StackPack/src/main.c
+8=/home/wil/dev/StackPack/src/stackpack.conf
+9=/home/wil/dev/StackPack/src/StackPackEngine.c
+10=/home/wil/dev/StackPack/src/StackPackEngine.h
+11=/home/wil/dev/gtk/stackpackmenu.c
+12=/home/wil/dev/StackPack/src/userData.c
+13=/home/wil/dev/StackPack/src/userData.h
+14=/home/wil/dev/StackPack/src/view.c
+
+[Project Tree]
+0=0
+1=0:0
+
+[File Tree]
+0=0
