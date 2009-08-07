@@ -1,0 +1,29 @@
+[OPTIONS]
+Compatibility=1.0
+Compiled file=StackPack.chm
+Contents file=Table of Contents.hhc
+Default Font=MS Sans Serif,8,0
+Default topic=html\intro.htm
+Display compile progress=No
+Index file=Index.hhk
+Language=0x1c09 English (South Africa)
+Title=StackPack Help
+
+
+[FILES]
+html\uninstall.htm
+html\copyright.htm
+html\customise.htm
+html\filemenu.htm
+html\gamemenu.htm
+html\helpmenu.htm
+html\index.htm
+html\newgame.htm
+html\optionsmenu.htm
+html\play.htm
+html\scoring.htm
+html\technical.htm
+html\intro.htm
+
+[INFOTYPES]
+
