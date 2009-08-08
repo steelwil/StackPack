@@ -12,7 +12,7 @@
 #define PACKAGE_PIXMAPS_DIR "/usr/local/share/pixmaps"
 #define PACKAGE_HELP_DIR "/usr/local/share/help"
 #define PACKAGE_MENU_DIR "/usr/local/share"
-#define PACKAGE_SOURCE_DIR "/home/wil/Projects/dev/StackPack"
+#define PACKAGE_SOURCE_DIR "/home/wil/Projects/dev/StackPack/gtk"
 #define GETTEXT_PACKAGE "StackPack"
 
 /* always defined to indicate that i18n is enabled */

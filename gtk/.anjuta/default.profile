@@ -10,9 +10,4 @@
                  attribute="Location"
                  value="anjuta-terminal:TerminalPlugin"/>
     </plugin>
-    <plugin name="Debugger" mandatory="no">
-        <require group="Anjuta Plugin"
-                 attribute="Location"
-                 value="anjuta-debug-manager:DebugManagerPlugin"/>
-    </plugin>
 </anjuta>
