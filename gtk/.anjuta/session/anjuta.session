@@ -1,16 +1,14 @@
 
 [Anjuta]
-Maximized=1
-Geometry=1600x1125+0+25
+Geometry=1590x1120+-52+50
 
 [File Loader]
-Files=file:///home/wil/Projects/dev/StackPack/gtk/src/view.c#22%%%file:///home/wil/Projects/dev/StackPack/gtk/src/gameData.c#22
+Files=file:///home/wil/Projects/dev/StackPack/gtk/src/gameData.c#1
 
 [Document Manager]
 bookmarks=<?xml version="1.0" encoding="UTF-8"?>\n<bookmarks/>\n
 
 [Execution]
-Program arguments=
 Program uri=file:///home/wil/Projects/dev/StackPack/gtk/src/stackpack%%%file:///home/wil/Projects/dev/StackPack/src/stackpack
 Run in terminal=2
 Working directories=file:///home/wil/Projects/dev/StackPack/gtk

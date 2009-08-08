@@ -14,5 +14,22 @@ AM_CFLAGS =\
 bin_PROGRAMS = \
 	stackpack
 
-stackpack_SOURCES = 
+stackpack_SOURCES = \
+	EnterNameDlg.c\
+	EnterNameDlg.h \
+	gameData.c \
+	gameData.h \
+	main.c \
+	preferences.c \
+	preferences.h \
+	propertiesDlg.c \
+	propertiesDlg.h \
+	scoresDlg.c \
+	scoresDlg.h \
+	StackPackEngine.c \
+	StackPackEngine.h \
+	userData.c \
+	userData.h \
+	view.c \
+	view.h
 
