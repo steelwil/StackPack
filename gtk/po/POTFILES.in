@@ -1,24 +1,3 @@
 # List of source files containing translatable strings.
 
-## Created by Anjuta - will be overwritten
-## If you don't want it to overwrite it,
-## 	Please disable it in the Anjuta project configuration
-
-# Source files
-src/StackPackEngine.h
-src/StackPackEngine.c
-src/view.c
-src/view.h
-src/userData.h
-src/gameData.h
-src/userData.c
-src/gameData.c
-src/scoresDlg.c
-src/scoresDlg.h
 src/main.c
-src/EnterNameDlg.c
-src/EnterNameDlg.h
-src/preferences.c
-src/preferences.h
-
-
